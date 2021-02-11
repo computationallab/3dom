@@ -1,0 +1,1 @@
+This repository provides data for Maximov MA, Molina M, and Gor GY, "The Effect of Interconnections on Gas Adsorption in Materials with Spherical Mesopores: a Monte Carlo Simulation Study", JCP 2021 (under review)
